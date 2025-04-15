@@ -4,3 +4,5 @@ say("hello")
 
 def sum(self,a,b):
     print(a+b)
+
+say("error")
